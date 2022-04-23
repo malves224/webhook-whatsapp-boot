@@ -17,7 +17,7 @@ Servidor para receber e responder mensagens da twilio via webhook.
 
   
 
-### Criando uma URL publica da sua maquina.
+### Criando uma URL publica.
 
   
 
@@ -25,6 +25,6 @@ Servidor para receber e responder mensagens da twilio via webhook.
 
   
 
-Forma mais simples para criar essa URL publica é utilizando ngrok em sua maquina [veja aqui como instalar e configurar](https://dashboard.ngrok.com/get-started/setup), após instalar e configurar basta rodar o comando ``ngrok http 3000``  e pronto sua URL estará no terminal http e https.
+Forma mais simples para criar essa URL publica para testes é utilizando ngrok em sua maquina [veja aqui como instalar e configurar](https://dashboard.ngrok.com/get-started/setup), após instalar e configurar basta rodar o comando ``ngrok http 3000``  e pronto sua URL estará no terminal http e https.
 
 Leia: [Como criar um bot no WhatsApp em 5 minutos em Node.js](https://www.twilio.com/blog/como-criar-um-bot-no-whatsapp-em-5-minutos-em-node-js)
